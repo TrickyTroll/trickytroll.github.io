@@ -1,6 +1,6 @@
 #content {
   text-align: center;
-  color: white;
+  color: rgba(37, 34, 34, 0.803);
   padding-top: 25%;
   text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
                0px 8px 13px rgba(0,0,0,0.1),
@@ -10,19 +10,22 @@
   margin-top: .5rem;
 }
 #projects {
-  color: white;
+  color: rgba(37, 34, 34, 0.803);
   text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
                0px 8px 13px rgba(0,0,0,0.1),
                0px 18px 23px rgba(0,0,0,0.1);
 }
 
 #about {
-  color: white;
+  color:rgba(37, 34, 34, 0.803);
   text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
                0px 8px 13px rgba(0,0,0,0.1),
                0px 18px 23px rgba(0,0,0,0.1);
 }
 
+#wallpaper{
+  background: url(https://images.unsplash.com/photo-1580122468928-0e9940385cb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=882&q=80) no-repeat top center fixed;
+}
 
 h1, h3, a{
   font-family: 'Montserrat', sans-serif;
@@ -33,20 +36,8 @@ h1, h3, a{
   margin-top: 1rem;
 }
 
-hr.style-eight {
-  overflow: visible; /* For IE */
-  padding: 0;
-  border: none;
-  border-top: medium double #333;
-  color: #333;
-  text-align: center;
-}
-hr.style-eight:after {
-  content: "§";
-  display: inline-block;
-  position: relative;
-  top: -0.7em;
-  font-size: 1.5em;
-  padding: 0 0.25em;
-  background: white;
+hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px rgba(0,0,0,0.2);
 }
