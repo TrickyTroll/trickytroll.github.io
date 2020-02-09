@@ -1,35 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>À propos</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  </head>
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <a class="navbar-brand" href="/">Acceuil</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          
-              <a class = "nav-item nav-link" href="/" >Home</a>
-          
-              <a class = "nav-item nav-link" href="/about.html" class="nav-item nav-link active">About</a>
-          
-              <a class = "nav-item nav-link" href="/blog.html" >Blog</a>
-          
-              <a class = "nav-item nav-link" href="/infos.html" >Membre</a>
-          
-        </div>
-      </div>
-    </nav>
-    <div class="container-fluid">
-      <h1 id="cette-page-en-dit-un-peu-sur-moi">Cette page en dit un peu sur moi</h1>
+I".<h1 id="cette-page-en-dit-un-peu-sur-moi">Cette page en dit un peu sur moi</h1>
 <h2 id="éducation">Éducation</h2>
 
 <h3 id="diplôme-détudes-secondaire">Diplôme d’études secondaire</h3>
@@ -56,7 +25,7 @@
 <h3 id="bonne-pratiques-en-programmation">Bonne pratiques en programmation</h3>
 <p>Au courant de mes récents projets, j’ai eu à développer de bonnes habitudes en tant que programmeur. Puisque je partage mes rapports de laboratoires avec mes pairs, j’ai appris à bien documenter mon code afin qu’un débutant en programmation puisse réviser mes notebooks.</p>
 
-<p>Afin de réaliser ce site internet, j’ai aussi appris à utiliser des <em>containers</em> afin de transporter mon environnement de programmation entre mes deux ordinateurs. J’ai donc des bases sur ce qu’est Docker ainsi qu’une bonne idée du fonctionnement des environnements de programmation.</p>
+<p>Lors de la réalisation de ce site internet</p>
 <h3 id="travail-déquipe">Travail d’équipe</h3>
 <p>Au travers de mes multiples emplois (emballeur, serveur et cuisinier), j’ai toujours eu à collaborer en équipe. J’apprécie beaucoup le travail d’équipe et je sais bien m’organiser avec les autres afin de séparer une grande charge de travail.</p>
 
@@ -76,11 +45,4 @@
   <li>Bash</li>
   <li>J’ai aussi commencé à utiliser Ruby afin de réaliser ce site.</li>
 </ul>
-
-    </div>
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-
-  </body>
-</html>
+:ET
