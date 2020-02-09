@@ -6,9 +6,28 @@ title: Home
 <html>
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/styles.scss">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+
     <title>{{page.title}}</title>
   </head>
   <body>
-    <h1>{{ "Hello World!" | uppercase }}</h1>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div id="content">
+            <h1>Hello, world!</h1>
+            <h3>Je m'appelle Etienne Parent et voici mon site!</h3>
+            <hr>
+            <a id ="about" type="button" href="/about.html" class="btn btn-default btn-lg" name="button"><i class="fas fa-hat-wizard"></i> À propos de moi.</a>
+            <a id ="projects" type="button" href="/blog.html" class="btn btn-default btn-lg" name="button"><i class="fas fa-laptop-code"></i> Voir mes projets!</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
   </body>
+
 </html>
