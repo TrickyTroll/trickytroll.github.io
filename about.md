@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: cv
 title: À propos
 ---
 # Cette page en dit un peu sur moi
