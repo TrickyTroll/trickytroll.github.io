@@ -1,8 +1,7 @@
 ---
+layout : project
 name : Laboratoire sur le pourcentage d'alcool dans la bière.
 objective: Déterminer le pourcentage d'alcool dans la bière.
 status : Complété
-site: www.google.com
+site: https://github.com/TrickyTroll/labo_biere
 ---
-
-# Voici mon projet
