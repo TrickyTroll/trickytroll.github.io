@@ -15,7 +15,7 @@ title: Projets
       <li>
         <h2><a href="{{project.site}}">{{ project.name }}</a></h2>
         <h3>{{ project.status }}</h3>
-        <p>{{project.objective}}</p>
+        <h4>{{project.objective}}</h4>
         <p>{{ project.content | markdownify }}</p>
       </li>
     {% endfor %}
