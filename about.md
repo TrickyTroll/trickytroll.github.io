@@ -28,7 +28,7 @@ J'ai toujours bien aimé les ordinateurs. J'ai "construit" plusieurs ordinateurs
 ### Linux
 Mon ordinateur personnel à pour système d'exploitation Linux (pop! os). Je suis donc à l'aise avec la ligne de commande sur Linux ainsi que d'autres systèmes Unix similaires.
 ### Bonne pratiques en programmation
-Au courant de mes récents projets, j'ai eu à développer de bonnes habitudes en tant que programmeur. Puisque je partage mes rapports de laboratoires avec mes pairs, j'ai appris à bien documenter mon code afin qu'un débutant en programmation puisse réviser mes notebooks.
+Au courant de mes récents projets, j'ai eu à développer de bonnes habitudes en tant que programmeur. Puisque je partage mes rapports de laboratoires avec mes pairs, j'ai appris à bien documenter mon code afin qu'un débutant en programmation puisse réviser mes notebooks. Je sais utiliser Git pour gérer et partager les versions de mes *notebooks* et projets.
 
 Afin de réaliser ce site internet, j'ai aussi appris à utiliser des *containers* afin de transporter mon environnement de programmation entre mes deux ordinateurs. J'ai donc des bases sur ce qu'est Docker ainsi qu'une bonne idée du fonctionnement des environnements de programmation.
 ### Travail d'équipe
@@ -45,4 +45,4 @@ Au travers de mes multiples emplois (emballeur, serveur et cuisinier), j'ai touj
 * HTML
 * CSS
 * Bash
-* J'ai aussi commencé à utiliser Ruby afin de réaliser ce site.
+* J'ai aussi commencé à utiliser Liquid afin de réaliser ce site.
