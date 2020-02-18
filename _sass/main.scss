@@ -27,9 +27,8 @@
 }
 
 #wallpaper{
-    background: url(https://images.unsplash.com/photo-1546971587-02375cbbdade?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=941&q=80) no-repeat;
-  // background: url(https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80);
-  // background-size: cover;
+    background: url(https://images.unsplash.com/photo-1546971587-02375cbbdade?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=941&q=80) center  no-repeat, rgba(37,34,34,0.803);
+    background: cover; 
 }
 
 h1, h3, a{
