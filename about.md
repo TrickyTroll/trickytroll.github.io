@@ -13,7 +13,8 @@ J'étudie présentement au Cégep de Sainte-Foy en Sciences Naturelles. J'aurai 
 
 ### Autres certifications
 #### Python
-J'ai complété le cours [Introduction to computer science using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7). Ce cours m'a permi d'apprendre les bases du langage et m'a introduit au monde de la programmation. Je sais utiliser Python et plusieurs de ses extensions (Numpy, Scipy, Matplotlib). Je suis aussi à l'aise avec la programmation orientée objet en Python.
+J'ai complété le cours [Introduction to computer science using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) avec une note finale de 91%.
+ Ce cours m'a permi d'apprendre les bases du langage et m'a introduit au monde de la programmation. Je sais utiliser Python et plusieurs de ses extensions (Numpy, Scipy, Matplotlib). Je suis aussi à l'aise avec la programmation orientée objet en Python. **[Certificat](https://courses.edx.org/certificates/137b386d4b624fe9a1be270091a9cce8)**
 #### Développement web
 Je suis aussi présentement le [Web developper bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/). Jusqu'à présent, j'ai appris à utilser HTML, CSS ainsi que Javascipt. Malgré que je sois moins à l'aise avec ces outils qu'avec Python, je comprends bien la syntaxe. D'ici la fin du cours, j'apprendrai à mettre en place des bases de données afin de construire un site internet *from the ground up*.
 
