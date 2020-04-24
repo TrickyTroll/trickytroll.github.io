@@ -1,57 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>50 ans d'Internet: Une entrevue exclusive avec un expert!</title>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;1,300&display=swap" rel="stylesheet">     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-
-  <body>
-    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <a class="navbar-brand" target="_blank" href="/"><i class="fas fa-kiwi-bird"></i></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          
-              <a class = "nav-item nav-link" href="/" >Accueil</a>
-          
-              <a class = "nav-item nav-link" href="/about.html" >À propos</a>
-          
-              <a class = "nav-item nav-link" href="/blog.html" >Blog</a>
-          
-              <a class = "nav-item nav-link" href="/projets.html" >Projets</a>
-          
-        </div>
-      </div>
-    </nav>
-    
-    <head>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
-    <link rel="stylesheet" href="/assets/css/styles.css"> 
-</head>
-<body id=blog-body>
-    <div class="jumbotron jumbotron-fluid">
-        <div class="container">
-            <h1 id="post-title">50 ans d'Internet: Une entrevue exclusive avec un expert!</h1>
-            <p>Le 24 avril 2020 par Étienne Parent</p>
-        </div>
-    </div>
-    <div class="container" id = "image">
-        <img src="/assets/images/reseau.jpeg" alt= "switch reseau">
-    </div>
-    
-    <div class="container" id="post-accroche">
-        <p>En octobre 1969, l'étudiant Charley Kline envoie le tout premier message sur un réseau. Beaucoup de choses ont changé depuis, et beaucoup continueront de changer. Une réflexion sur le passé, le présent et le futur d'Internet avec M. Florent Parent.</p>
-    </div>
-    
-    <div class="container" id = "blog-content">
-        <h3 id="le-passé">Le passé</h3>
+I"�<h3 id="le-passé">Le passé</h3>
 
 <p>Au début des années 60, les ordinateurs se font de plus en plus présents dans les universités, les 
 centres de recherche et les institutions gouvernementales aux États-Unis. Un seul problème: ces 
@@ -163,15 +110,4 @@ Internet.</p>
 
 <p>Espérons que les générations futures pourront continuer de bénéficier des avantages que procure 
 un monde hyper connecté sans avoir à faire avec les désavantages qui y sont présentement associés.</p>
-
-    </div>
-</body>
-
-
-
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-
-  </body>
-</html>
+:ET
