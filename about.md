@@ -48,7 +48,7 @@ avec une note finale de 91%.
  
 #### Apprentissage Machine
 
-J'ai complété le cours *Machine Learning* offert par Stanfort Online à la fin
+J'ai complété le cours *Machine Learning* offert par Stanford Online à la fin
 de l'été 2020. Ce cours m'a permis d'acquérir une meilleure compréhension des
 concepts mathématiques sur lesquels repose l'apprentissage machine. J'ai aussi
 acquis des compétences de base avec le langage Octave puisque c'était celui qui
