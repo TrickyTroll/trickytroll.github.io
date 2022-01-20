@@ -1,5 +1,5 @@
-Cette page en dit un peu sur moi
-================================
+À propos de moi
+===============
 
 Emploi
 ------
