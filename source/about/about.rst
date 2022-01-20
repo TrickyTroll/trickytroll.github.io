@@ -41,14 +41,12 @@ scientifique*.
 Éducation
 ---------
 
-Diplôme d’études secondaires
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Université
+~~~~~~~~~~
 
-J’ai complété mon secondaire 5 à l’école secondaire De Rochebelle. J’ai
-aussi mon diplôme du
-`P.E.I <https://www.ibo.org/fr/programmes/middle-years-programme/>`__.
-Comme projet personnel, j’ai réalisé un site sur la
-`photographie <https://etienneparent4.wixsite.com/artphotographie>`__.
+Je suis présentement à ma deuxième année en Génie informatique à
+l’Université Laval. Ce sont les cours sur l’électronique et la
+programmation bas niveau qui m’intéressent le plus.
 
 Cégep
 ~~~~~
@@ -60,12 +58,14 @@ de la réalisation de ces rapports. Afin de partager mes projets avec
 partenaires de laboratoire, j’ai appris à bien documenter mon code
 puisque plusieurs ne connaissaient pas le langage.
 
-Université
-~~~~~~~~~~
+Diplôme d’études secondaires
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Je suis présentement à ma deuxième année en Génie informatique à
-l’Université Laval. Ce sont les cours sur l’électronique et la
-programmation bas niveau qui m’intéressent le plus.
+J’ai complété mon secondaire 5 à l’école secondaire De Rochebelle. J’ai
+aussi mon diplôme du
+`P.E.I <https://www.ibo.org/fr/programmes/middle-years-programme/>`__.
+Comme projet personnel, j’ai réalisé un site sur la
+`photographie <https://etienneparent4.wixsite.com/artphotographie>`__.
 
 Autres certifications
 ~~~~~~~~~~~~~~~~~~~~~
